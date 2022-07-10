@@ -1,2 +1,2 @@
 # ETHEREUM-Lottery
- A Solidity Smart Contract Lottery on the Ethereum Blockchain
+ A **Solidity** Smart Contract Lottery on the **Ethereum** Blockchain
